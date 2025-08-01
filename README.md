@@ -1,4 +1,4 @@
-# Electricity Bill Calculator (Pakistan)
+# Electricity Bill Calculator (Pakistan Tariff Model)
 
 ## About
 
